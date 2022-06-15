@@ -1,0 +1,20 @@
+{
+	"name":"rj.ownpack",
+	"version":"0.0.1",
+	"displayName":"RJ Demo Tool",
+	"description":"This is a demonstration tool",
+	
+	"samples":[
+	{
+            "displayName": "Sample1",
+            "description": "This is the sample 1",
+            "path": "Samples~/Sample1"
+        }
+	],
+		
+
+"author":{
+	"name":"Juchang",
+	"email":"samvincewhale@gmail.com"
+	}
+}

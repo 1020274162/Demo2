@@ -1,0 +1,16 @@
+{
+    "name": "rj.ownpack.runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d8b13df0325738d4b92d3a741f1cbfd7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
